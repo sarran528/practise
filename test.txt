@@ -1,3 +1,10 @@
 welcome to the great kirigalan show
+<<<<<<< HEAD
 hello hi
 asdasfasdasfa
+=======
+asdasfasdasfa
+
+zxcvb
+>>>>>>> b145cc17916a3ad4cb3dcd18b9defe3395be53ac
+how are you

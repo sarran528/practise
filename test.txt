@@ -2,8 +2,12 @@ welcome to the great kirigalan show
 asdasfasdasfa
 
 zxcvb
+<<<<<<< HEAD
 how are you
 
 
 
 im vishu i love tea
+=======
+how are you
+>>>>>>> eeb03b3ace23ca0b2018bae371f2d2d49d221927

@@ -1,4 +1,3 @@
-
-add - commit - push
-
-all done
+local                 -                  remote
+-> stagging and     pushing - -  -  - >
+-> creating branch
